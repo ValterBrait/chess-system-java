@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Brait
+ *
+ */
+module chessSystem {
+}
